@@ -10,7 +10,7 @@
 
 _Son güncelleme: 19 Ekim 2026_
 
-Bu Kullanım Koşulları ("Koşullar"), Slotify mobil uygulamasının ("Uygulama" veya "Slotify") bireysel kullanıcılar ve işletme hesapları tarafından kullanımına ilişkin şart ve kuralları düzenler. Uygulamayı indirerek, bir hesap oluşturarak veya kullanarak bu Koşulları kabul etmiş sayılırsınız. Koşulları kabul etmiyorsanız lütfen Uygulamayı kullanmayınız.
+Bu Kullanım Koşulları ("Koşullar"), Slotify uygulamasının ("Uygulama" veya "Slotify") bireysel kullanıcılar ve işletme hesapları tarafından kullanımına ilişkin şart ve kuralları düzenler. Uygulamayı indirerek, bir hesap oluşturarak veya kullanarak bu Koşulları kabul etmiş sayılırsınız. Koşulları kabul etmiyorsanız lütfen Uygulamayı kullanmayınız.
 
 ### 1. Tanımlar
 
@@ -93,7 +93,7 @@ Slotify SMS ve WhatsApp mesaj programına ilişkin koşullar aşağıdadır. Do�
 
 _Last updated: 19 October 2026_
 
-These Terms of Use ("Terms") govern the terms and rules regarding the use of the Slotify mobile application ("App" or "Slotify") by individual users and business accounts. By downloading, creating an account for, or using the App, you are deemed to have accepted these Terms. If you do not accept these Terms, please do not use the App.
+These Terms of Use (the "Terms") set out the terms and rules for the use of the Slotify application (the "App" or "Slotify") by individual users and business accounts. By downloading the App, creating an account or using it, you are deemed to have accepted these Terms. If you do not accept the Terms, please do not use the App.
 
 ### 1. Definitions
 
@@ -176,7 +176,7 @@ The terms of the Slotify SMS and WhatsApp messaging program are set out below. V
 
 _Последнее обновление: 19 октября 2026_
 
-Настоящие Условия использования ("Условия") регулируют правила использования мобильного приложения Slotify ("Приложение" или "Slotify") индивидуальными пользователями и бизнес-аккаунтами. Загружая Приложение, создавая аккаунт или используя его, вы считаетесь принявшим настоящие Условия. Если вы не согласны с Условиями, пожалуйста, не используйте Приложение.
+Настоящие Условия использования («Условия») устанавливают условия и правила использования приложения Slotify («Приложение» или «Slotify») индивидуальными пользователями и бизнес-аккаунтами. Загружая Приложение, создавая учётную запись или используя его, вы считаетесь принявшими настоящие Условия. Если вы не принимаете Условия, пожалуйста, не используйте Приложение.
 
 ### 1. Определения
 
@@ -259,7 +259,7 @@ Slotify может периодически обновлять настоящи�
 
 _Τελευταία ενημέρωση: 19 Οκτωβρίου 2026_
 
-Οι παρόντες Όροι χρήσης («Όροι») ρυθμίζουν τους όρους και τους κανόνες χρήσης της εφαρμογής για κινητά Slotify («Εφαρμογή» ή «Slotify») από ιδιώτες χρήστες και λογαριασμούς επιχειρήσεων. Με τη λήψη της Εφαρμογής, τη δημιουργία λογαριασμού σε αυτήν ή τη χρήση της, θεωρείται ότι έχετε αποδεχθεί τους παρόντες Όρους. Εάν δεν αποδέχεστε τους παρόντες Όρους, παρακαλούμε να μη χρησιμοποιείτε την Εφαρμογή.
+Οι παρόντες Όροι Χρήσης («Όροι») ρυθμίζουν τους όρους και τους κανόνες χρήσης της εφαρμογής Slotify («Εφαρμογή» ή «Slotify») από ιδιώτες χρήστες και επιχειρηματικούς λογαριασμούς. Κατεβάζοντας την Εφαρμογή, δημιουργώντας λογαριασμό ή χρησιμοποιώντας την, θεωρείται ότι αποδέχεστε τους παρόντες Όρους. Εάν δεν αποδέχεστε τους Όρους, παρακαλούμε μη χρησιμοποιείτε την Εφαρμογή.
 
 ### 1. Ορισμοί
 
