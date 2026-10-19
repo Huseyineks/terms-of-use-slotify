@@ -1,5 +1,5 @@
 Slotify - Kullanım Koşulları (Terms of Use)
-Son Güncelleme: 27 Temmuz 2026
+Son Güncelleme: 19 Ekim 2026
 
 Bu Kullanım Koşulları ("Koşullar"), Slotify mobil uygulamasının ("Uygulama" veya "Slotify") bireysel kullanıcılar ve işletme hesapları tarafından kullanımına ilişkin şart ve kuralları düzenler.
 
@@ -38,14 +38,18 @@ Randevular, işletmenin tanımladığı çalışma saatleri ve müsaitlik durumu
 
 Randevu iptali ve değişikliğine ilişkin kurallar işletmenin kendi politikasına tabidir; Slotify, işletme ile kullanıcı arasında bu konuda doğabilecek uyuşmazlıklara taraf değildir.
 
-6. Konum ve Bildirim İzinleri
+6. Konum, Bildirim ve Rehber İzinleri
 Uygulama;
 
 Haritada işletme konumunun gösterilmesi için Konum izni,
 
-Randevu durum değişiklikleri ve hatırlatmalar için Bildirim izni talep edebilir.
+Randevu durum değişiklikleri ve hatırlatmalar için Bildirim izni,
+
+İşletme hesaplarında müşteri telefon numarasını rehberden seçebilmeniz için Rehber izni talep edebilir.
 
 Bu izinleri cihaz ayarlarınızdan dilediğiniz zaman kapatabilirsiniz; ancak bu durumda ilgili özellikler düzgün çalışmayabilir.
+
+Rehbere yalnızca bir kişi seçtiğinizde erişilir. Rehberden eklediğiniz kişilerin bilgilerini Slotify'a iletmeden önce bu kişilerin bilgilendirilmesinden ve gerekli rızanın alınmasından işletme sorumludur.
 
 7. Yasaklı Davranışlar
 Kullanıcılar aşağıda belirtilen eylemlerde bulunamazlar:
