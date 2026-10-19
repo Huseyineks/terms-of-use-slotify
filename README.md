@@ -8,7 +8,7 @@
 
 ## Kullanım Koşulları
 
-_Son güncelleme: 19 Ekim 2026_
+_Son güncelleme: 20 Ekim 2026_
 
 Bu Kullanım Koşulları ("Koşullar"), Slotify uygulamasının ("Uygulama" veya "Slotify") bireysel kullanıcılar ve işletme hesapları tarafından kullanımına ilişkin şart ve kuralları düzenler. Uygulamayı indirerek, bir hesap oluşturarak veya kullanarak bu Koşulları kabul etmiş sayılırsınız. Koşulları kabul etmiyorsanız lütfen Uygulamayı kullanmayınız.
 
@@ -26,7 +26,7 @@ Hesabınıza ait şifrenin gizliliğinden ve hesabınız üzerinden gerçekleşt
 
 ### 3. Hizmetin Kapsamı ve İşleyişi
 
-Slotify, kullanıcılar ile işletmeler arasında rezervasyon planlamasını kolaylaştıran bir aracı platformdur. Uygulama üzerinden herhangi bir ödeme veya tahsilat işlemi yapılmamaktadır; hizmet bedeli varsa bu bedel işletme ile kullanıcı arasında, Slotify dışında belirlenir ve tahsil edilir.
+Slotify, kullanıcılar ile işletmeler arasında rezervasyon planlamasını kolaylaştıran bir aracı platformdur. Hizmet bedeli işletme ile kullanıcı arasında, Slotify dışında belirlenir ve tahsil edilir. Bazı işletmeler (örneğin restoranlar ve toplantı odaları) rezervasyonu kesinleştirmek için kapora isteyebilir; kapora rezervasyon sırasında kartla ödenir ve ödeme altyapısı Stripe tarafından sağlanır. Müşteri rezervasyonu iptal ederse kapora iade edilmez; işletme iptal ederse kapora iade edilir.
 
 Slotify, işletmelerin sunduğu hizmetlerin kalitesinden, doğruluğundan, fiyatından veya zamanında yerine getirilmesinden sorumlu değildir.
 
@@ -91,7 +91,7 @@ Slotify SMS ve WhatsApp mesaj programına ilişkin koşullar aşağıdadır. Do�
 
 ## Terms of Use
 
-_Last updated: 19 October 2026_
+_Last updated: 20 October 2026_
 
 These Terms of Use (the "Terms") set out the terms and rules for the use of the Slotify application (the "App" or "Slotify") by individual users and business accounts. By downloading the App, creating an account or using it, you are deemed to have accepted these Terms. If you do not accept the Terms, please do not use the App.
 
@@ -109,7 +109,7 @@ You are responsible for keeping your password confidential and for all activity 
 
 ### 3. Scope and Operation of the Service
 
-Slotify is an intermediary platform that facilitates reservation scheduling between users and businesses. No payment or collection transaction is carried out through the App; if a service fee applies, it is determined and collected directly between the business and the user, outside of Slotify.
+Slotify is an intermediary platform that makes it easier for users and businesses to plan reservations. The price of a service is agreed and collected between the business and the user, outside Slotify. Some businesses (for example restaurants and meeting rooms) may ask for a deposit to confirm a reservation; the deposit is paid by card during the reservation and payments are processed by Stripe. If the customer cancels the reservation, the deposit is not refunded; if the business cancels, the deposit is refunded.
 
 Slotify is not responsible for the quality, accuracy, price, or timely delivery of the services offered by businesses.
 
@@ -174,7 +174,7 @@ The terms of the Slotify SMS and WhatsApp messaging program are set out below. V
 
 ## Условия использования
 
-_Последнее обновление: 19 октября 2026_
+_Последнее обновление: 20 октября 2026_
 
 Настоящие Условия использования («Условия») устанавливают условия и правила использования приложения Slotify («Приложение» или «Slotify») индивидуальными пользователями и бизнес-аккаунтами. Загружая Приложение, создавая учётную запись или используя его, вы считаетесь принявшими настоящие Условия. Если вы не принимаете Условия, пожалуйста, не используйте Приложение.
 
@@ -192,7 +192,7 @@ _Последнее обновление: 19 октября 2026_
 
 ### 3. Объём и порядок работы услуги
 
-Slotify — это платформа-посредник, облегчающая планирование записей между пользователями и компаниями. Через Приложение не осуществляется никаких платежей или сборов; если предусмотрена плата за услугу, она определяется и взимается напрямую между компанией и пользователем, вне Slotify.
+Slotify — это посредническая платформа, которая упрощает планирование бронирований между пользователями и бизнесами. Стоимость услуги согласовывается и оплачивается между бизнесом и пользователем вне Slotify. Некоторые бизнесы (например, рестораны и переговорные комнаты) могут запросить депозит для подтверждения бронирования; депозит оплачивается картой при бронировании, платежи обрабатываются Stripe. Если клиент отменяет бронирование, депозит не возвращается; если бронирование отменяет бизнес, депозит возвращается.
 
 Slotify не несёт ответственности за качество, точность, цену или своевременность оказания услуг, предлагаемых компаниями.
 
@@ -257,7 +257,7 @@ Slotify может периодически обновлять настоящи�
 
 ## Όροι χρήσης
 
-_Τελευταία ενημέρωση: 19 Οκτωβρίου 2026_
+_Τελευταία ενημέρωση: 20 Οκτωβρίου 2026_
 
 Οι παρόντες Όροι Χρήσης («Όροι») ρυθμίζουν τους όρους και τους κανόνες χρήσης της εφαρμογής Slotify («Εφαρμογή» ή «Slotify») από ιδιώτες χρήστες και επιχειρηματικούς λογαριασμούς. Κατεβάζοντας την Εφαρμογή, δημιουργώντας λογαριασμό ή χρησιμοποιώντας την, θεωρείται ότι αποδέχεστε τους παρόντες Όρους. Εάν δεν αποδέχεστε τους Όρους, παρακαλούμε μη χρησιμοποιείτε την Εφαρμογή.
 
@@ -275,7 +275,7 @@ _Τελευταία ενημέρωση: 19 Οκτωβρίου 2026_
 
 ### 3. Πεδίο εφαρμογής και λειτουργία της Υπηρεσίας
 
-Η Slotify είναι μια διαμεσολαβητική πλατφόρμα που διευκολύνει τον προγραμματισμό κρατήσεων μεταξύ χρηστών και επιχειρήσεων. Μέσω της Εφαρμογής δεν πραγματοποιείται καμία συναλλαγή πληρωμής ή είσπραξης· εφόσον προβλέπεται αμοιβή για την υπηρεσία, αυτή καθορίζεται και εισπράττεται απευθείας μεταξύ της επιχείρησης και του χρήστη, εκτός της Slotify.
+Το Slotify είναι μια ενδιάμεση πλατφόρμα που διευκολύνει τον προγραμματισμό κρατήσεων μεταξύ χρηστών και επιχειρήσεων. Η τιμή της υπηρεσίας συμφωνείται και καταβάλλεται μεταξύ της επιχείρησης και του χρήστη, εκτός Slotify. Ορισμένες επιχειρήσεις (για παράδειγμα εστιατόρια και αίθουσες συσκέψεων) μπορεί να ζητήσουν προκαταβολή για την επιβεβαίωση της κράτησης· η προκαταβολή πληρώνεται με κάρτα κατά την κράτηση και οι πληρωμές επεξεργάζονται από τη Stripe. Αν ο πελάτης ακυρώσει την κράτηση, η προκαταβολή δεν επιστρέφεται· αν την ακυρώσει η επιχείρηση, η προκαταβολή επιστρέφεται.
 
 Η Slotify δεν φέρει ευθύνη για την ποιότητα, την ακρίβεια, την τιμή ή την έγκαιρη παροχή των υπηρεσιών που προσφέρουν οι επιχειρήσεις.
 
